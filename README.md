@@ -10,6 +10,11 @@
 
 <br> 
 
+### 📚 𝐌𝐲 𝐁𝐥𝐨𝐠
+<a href="https://velog.io/@yuyue_/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+
+<br>
+
 ### ✨ 𝐒𝐤𝐢𝐥𝐥𝐬 ✨
 <img src="https://img.shields.io/badge/iOS-FF66AA?style=for-the-badge&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
