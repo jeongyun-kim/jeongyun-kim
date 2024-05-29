@@ -11,7 +11,7 @@
 <br> 
 
 ### 📚 𝐌𝐲 𝐁𝐥𝐨𝐠
-<a href="https://yunie-studylog.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="https://yunie-studylog.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
 <br>
 
